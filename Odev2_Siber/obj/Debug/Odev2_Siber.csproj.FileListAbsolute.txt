@@ -1,0 +1,9 @@
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\bin\Debug\Odev2_Siber.exe.config
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\bin\Debug\Odev2_Siber.exe
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\bin\Debug\Odev2_Siber.pdb
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.csprojResolveAssemblyReference.cache
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.Form1.resources
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.Properties.Resources.resources
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.csproj.GenerateResource.Cache
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.exe
+C:\Users\mehme\Desktop\MyFirstML_PRJ\Odev2_Siber\Odev2_Siber\obj\Debug\Odev2_Siber.pdb
